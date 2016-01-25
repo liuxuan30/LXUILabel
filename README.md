@@ -1,7 +1,7 @@
 # LXUILabel
 UILabel whose UIEdgeInset is configurable on Xcode interface builder
 
-Simply drag the files into your project, and change UILabel's class to LXUILabel.
+Simply drag the files into your project, and change UILabel's class to LXUILabel (and wait Xcode update).
 
 A moment later the insets can be changed on interface builder
 
